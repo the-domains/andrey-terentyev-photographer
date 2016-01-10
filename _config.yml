@@ -6,10 +6,10 @@ color:
     - '#606062'
     - '#9a9b9f'
     - '#b07a68'
-  brandStrength: 0
-  lightness: 0
-  rhythmicContrast: 0
-  saturation: 0
+  brandStrength: 0.991554
+  lightness: 0.99831
+  rhythmicContrast: 0.942567
+  saturation: 1
 cta: {}
 layout_spectrum: 0
 name: Andrey Terentyev Photographer
